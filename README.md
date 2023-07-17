@@ -118,7 +118,6 @@ To run the project, execute the following command:
 > Mention all of the collaborators of this project.
 
 👤 **Michael Darkwah**
-👤 **Enoch Bett**
 
 - GitHub: [@Mike47ip](https://github.com/Mike47ip)
 
@@ -229,6 +228,7 @@ This project is [MIT](https://github.com/Mike47ip/Awesome_Book/blob/main/LICENSE
 - **[local storage]**
 - **[dynamic pages]**
 - **[navigation]**
+- **[ES6 Modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -283,7 +283,6 @@ To run the project, execute the following command:
 > Mention all of the collaborators of this project.
 
 👤 **Michael Darkwah**
-👤 **Enoch Bett**
 
 - GitHub: [@Mike47ip](https://github.com/Mike47ip/Awesome_Book)
 
